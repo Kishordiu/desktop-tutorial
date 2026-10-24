@@ -1,5 +1,7 @@
 ![GitHub Desktop Tutorial — bespoke brushed-metal project artwork](./assets/readme-metal-hero.svg)
 
+# GitHub Desktop Tutorial
+
 > **A compact learning repository for exploring Git and GitHub workflows.**
 
 This repository captures hands-on experimentation with GitHub Desktop, version control and the everyday workflow of creating, editing and publishing repositories.
